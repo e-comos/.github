@@ -15,9 +15,10 @@ You can break this project down into three parts:<br>
 **Some things we have to do ourselves because we are not trying to be a "Unix-like" system**
 ## How to join us
 Well, if you really want to join, please contact us through this channel:<br>
-Email : saladin131211@gmail.com<br>
-The email will be forwarded to the corresponding email for handling, and you’ll receive a reply as soon as possible.<br>
-(This service is provided free of charge by Cloudflare)
+Email : <e-comos-kernel@groups.io><br>
+Because our project is small so we use this list to management all of project<br>
+But website problem see <e-comos-website@groups.io><br>
+We DO NOT support pull request, if you open a pull request we will close it.
 ### In here , how can you do
 "Don't Panic!" This sentence appears repeatedly on the cover of "The Hitchhiker's Guide to the Galaxy". We also want to quote this sentence.<br>
 Want to feedback , please send email to mail list <e-comos-user-feedback@groups.io>
